@@ -1,0 +1,3 @@
+To run this project make sure to install any tool for running PHP.
+I used XAMPP for executing the php.
+You have to create database using PHPMYADMIN
